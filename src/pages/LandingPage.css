@@ -1,0 +1,27 @@
+.landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/background-image.jpg'); /* Adjust the path and image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #fff; /* Adjust text color as needed */
+  }
+  
+  .centered-container {
+    text-align: center;
+  }
+  
+  .get-started-button {
+    background-color: #4CAF50; /* Button color */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 5px;
+  }
+  

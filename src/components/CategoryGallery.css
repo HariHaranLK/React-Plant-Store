@@ -1,0 +1,36 @@
+.plant-card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+    width: 100%; /* Ensure the card takes full width of its container */
+    box-sizing: border-box;
+  }
+  
+  .plant-image {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+  }
+  
+  .plants-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Distribute space between items */
+  }
+  
+  .category {
+    margin-bottom: 32px;
+    width: 100%; /* Ensure the category container takes full width */
+  }
+  
+  .category h2 {
+    text-align: center;
+  }
+  
+  .plant-card {
+    flex: 1 1 20%; /* Adjust the percentage as needed to fit your layout */
+    max-width: 200px; /* Optional: restrict maximum width */
+  }
+  
