@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2d64910.css",
+    "main.js": "/static/js/main.fc9913c1.js",
+    "static/media/background-image.jpg": "/static/media/background-image.69841fa244b1e8859241.jpg",
+    "static/media/BirdsNestFern.jpg": "/static/media/BirdsNestFern.721935b9a4ef9610fea9.jpg",
+    "static/media/ChristmasCactus.jpg": "/static/media/ChristmasCactus.b2b790d45b48a83835b2.jpg",
+    "static/media/PandaPlant.jpg": "/static/media/PandaPlant.972903446e63a921c5be.jpg",
+    "static/media/Opuntia.jpg": "/static/media/Opuntia.87299457894cb18faa45.jpg",
+    "static/media/BarrelCactus.jpg": "/static/media/BarrelCactus.c4f9be0e67747333103b.jpg",
+    "static/media/SaguaroCactus.jpg": "/static/media/SaguaroCactus.b64b8eb33778d51cca11.jpg",
+    "static/media/BostonFern.jpg": "/static/media/BostonFern.5cc596b72ba8191e2bd0.jpg",
+    "static/media/Echeveria.jpg": "/static/media/Echeveria.d9da111a6c460d189320.jpg",
+    "index.html": "/index.html",
+    "main.c2d64910.css.map": "/static/css/main.c2d64910.css.map",
+    "main.fc9913c1.js.map": "/static/js/main.fc9913c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d64910.css",
+    "static/js/main.fc9913c1.js"
+  ]
+}
